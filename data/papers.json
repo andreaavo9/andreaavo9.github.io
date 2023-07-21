@@ -9,17 +9,17 @@
     },
     {
       "authors":"Cunico, F., Girella, F., Avogaro, A., Emporio, M., Giachetti, A., Cristani, M.",
-      "year": "2023, May",
-      "title": "Pose Forecasting in Industrial Human-Robot Collaboration.",
-      "url":"https://link.springer.com/chapter/10.1007/978-3-031-19839-7_4",
-      "venue":"In Computer Vision–ECCV 2022: 17th European Conference, Tel Aviv, Israel, October 23–27, 2022, Proceedings, Part XXXVIII (pp. 51-69). Cham: Springer Nature Switzerland."
+      "year": "2023, June",
+      "title": "OO-dMVMT: A Deep Multi-view Multi-task Classification Framework for Real-time 3D Hand Gesture Classification and Segmentation.",
+      "url":"https://openaccess.thecvf.com/content/CVPR2023W/CV4MR/papers/Cunico_OO-dMVMT_A_Deep_Multi-View_Multi-Task_Classification_Framework_for_Real-Time_3D_CVPRW_2023_paper.pdf",
+      "venue":"Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition."
     },
     {
-      "authors":"Sampieri, A., di Melendugno, G. M. D. A., Avogaro, A., Cunico, F., Setti, F., Skenderi, G., Cristani, M. & Galasso, F.",
-      "year": "2022, October",
-      "title": "Pose Forecasting in Industrial Human-Robot Collaboration.",
-      "url":"https://link.springer.com/chapter/10.1007/978-3-031-19839-7_4",
-      "venue":"In Computer Vision–ECCV 2022: 17th European Conference, Tel Aviv, Israel, October 23–27, 2022, Proceedings, Part XXXVIII (pp. 51-69). Cham: Springer Nature Switzerland."
+      "authors":"Avogaro, A., Cunico, F., Rosenhahn, B., Setti, F.",
+      "year": "2023, July",
+      "title": "Markerless Human Pose Estimation for Biomedical Applications: A Survey.",
+      "url":"https://www.frontiersin.org/articles/10.3389/fcomp.2023.1153160/full",
+      "venue":"Frontiers in Computer Science."
     }
   ]
 }
