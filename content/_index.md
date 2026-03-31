@@ -1,5 +1,5 @@
-I am a PhD student in Computer Science at the University of Verona, supervised by Prof. Marco Cristani. My research interests lie in the intersection of machine learning, computer vision, and natural language processing. I am currently working on time series forecasting, human pose forecasting, and language generation. I am passionate about using machine learning to solve real-world problems. I believe that machine learning has the potential to make a positive impact on the world, and I am excited to be a part of this field.
+I recently completed my PhD in Computer Science at the University of Verona, supervised by Prof. Marco Cristani, with a focus on machine learning, computer vision, and time series forecasting. I now work as an AI consultant, helping companies design and build AI agents, custom deep learning solutions, and tackle complex, research-grade ML problems.
 
- In my spare time, I enjoy biking, working out and spending time with my family. I also like to cook and building DIY stuff in my parents home garage! I'm a big fan of commercial and EDM music, videogames and tv series. I am always looking for new challenges and opportunities to learn and grow. If you have any questions or suggestions, please feel free to contact me. 
+In my spare time, I enjoy biking, working out and spending time with my family. I also like to cook and tinker with DIY projects and robotics in my garage! I'm a big fan of commercial and EDM music, videogames and tv series. I am always looking for new challenges and opportunities to learn and grow. If you have any questions or suggestions, please feel free to contact me.
 
-Thank you for visiting my website!
+Thank you for visiting my website!

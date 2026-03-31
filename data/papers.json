@@ -1,25 +1,81 @@
 {
   "list": [
     {
-      "authors":"Avogaro, A., Cunico, F., Rosenhahn, B., Setti, F.",
+      "authors": "Avogaro, A.",
+      "year": "2025",
+      "title": "From Prediction to Interaction: Exploring Deep Learning Forecasting Models for Human-Centered Industrial Applications.",
+      "url": "https://iris.univr.it/handle/11562/1165210",
+      "venue": "PhD Thesis, University of Verona."
+    },
+    {
+      "authors": "Avogaro, A., Capogrosso, L., Toaiari, A., Fummi, F., Cristani, M.",
+      "year": "2025",
+      "title": "New Fashion Products Performance Forecasting: A Survey on Evolutions, Models and Emerging Trends.",
+      "url": "https://arxiv.org/abs/2501.10324",
+      "venue": "arXiv preprint."
+    },
+    {
+      "authors": "Avogaro, A., Capogrosso, L., Fummi, F., Cristani, M.",
+      "year": "2024",
+      "title": "MDiFF: Exploiting Multimodal Score-based Diffusion Models for New Fashion Product Performance Forecasting.",
+      "url": "https://arxiv.org/abs/2412.06840",
+      "venue": "FashionAI Workshop @ European Conference on Computer Vision (ECCV 2024). Springer."
+    },
+    {
+      "authors": "Avogaro, A., Capogrosso, L., Fummi, F., Cristani, M.",
+      "year": "2024",
+      "title": "Dif4FF: Leveraging Multimodal Diffusion Models and Graph Neural Networks for Accurate New Fashion Product Performance Forecasting.",
+      "url": "https://arxiv.org/abs/2412.05566",
+      "venue": "27th International Conference on Pattern Recognition (ICPR 2024). Springer."
+    },
+    {
+      "authors": "Capogrosso, L., Toaiari, A., Avogaro, A., Khan, U., Jivoji, A., Fummi, F., Cristani, M.",
+      "year": "2024",
+      "title": "SITUATE: Indoor Human Trajectory Prediction Through Geometric Features and Self-supervised Vision Representation.",
+      "url": "https://arxiv.org/abs/2409.00774",
+      "venue": "27th International Conference on Pattern Recognition (ICPR 2024). Springer."
+    },
+    {
+      "authors": "Avogaro, A., Toaiari, A., Cunico, F., Xu, X., Dafas, H., Vinciarelli, A., Li, E., Cristani, M.",
+      "year": "2024",
+      "title": "Exploring 3D Human Pose Estimation and Forecasting from the Robot's Perspective: The HARPER Dataset.",
+      "url": "https://arxiv.org/abs/2403.14447",
+      "venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024)."
+    },
+    {
+      "authors": "Cunico, F., Aldegheri, S., Avogaro, A., Boldo, M., Bombieri, N., et al.",
+      "year": "2024",
+      "title": "Enhancing Safety and Privacy in Industry 4.0: The ICE Laboratory Case Study.",
+      "url": "https://ieeexplore.ieee.org/document/10716394/",
+      "venue": "IEEE Access, vol. 12, pp. 154570–154599."
+    },
+    {
+      "authors": "Avogaro, A., Cunico, F., Rosenhahn, B., Setti, F.",
       "year": "2023, July",
       "title": "Markerless Human Pose Estimation for Biomedical Applications: A Survey.",
-      "url":"https://www.frontiersin.org/articles/10.3389/fcomp.2023.1153160/full",
-      "venue":"Frontiers in Computer Science."
+      "url": "https://www.frontiersin.org/articles/10.3389/fcomp.2023.1153160/full",
+      "venue": "Frontiers in Computer Science."
     },
     {
-      "authors":"Cunico, F., Girella, F., Avogaro, A., Emporio, M., Giachetti, A., Cristani, M.",
+      "authors": "Cunico, F., Girella, F., Avogaro, A., Emporio, M., Giachetti, A., Cristani, M.",
       "year": "2023, June",
       "title": "OO-dMVMT: A Deep Multi-view Multi-task Classification Framework for Real-time 3D Hand Gesture Classification and Segmentation.",
-      "url":"https://openaccess.thecvf.com/content/CVPR2023W/CV4MR/papers/Cunico_OO-dMVMT_A_Deep_Multi-View_Multi-Task_Classification_Framework_for_Real-Time_3D_CVPRW_2023_paper.pdf",
-      "venue":"Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition."
+      "url": "https://openaccess.thecvf.com/content/CVPR2023W/CV4MR/papers/Cunico_OO-dMVMT_A_Deep_Multi-View_Multi-Task_Classification_Framework_for_Real-Time_3D_CVPRW_2023_paper.pdf",
+      "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW 2023)."
     },
     {
-      "authors":"Sampieri, A., di Melendugno, G. M. D. A., Avogaro, A., Cunico, F., Setti, F., Skenderi, G., Cristani, M. & Galasso, F.",
+      "authors": "Emporio, M., Caputo, A., Pintani, D., Avogaro, A., Cunico, F., Girella, F., Cristani, M., Giachetti, A.",
+      "year": "2023, September",
+      "title": "Demo: Gesture Based Interaction with the HoloLens 2.",
+      "url": "https://chitaly2023.it/",
+      "venue": "15th Biannual Conference of the Italian SIGCHI Chapter (CHItaly 2023). ACM."
+    },
+    {
+      "authors": "Sampieri, A., di Melendugno, G. M. D. A., Avogaro, A., Cunico, F., Setti, F., Skenderi, G., Cristani, M., Galasso, F.",
       "year": "2022, October",
       "title": "Pose Forecasting in Industrial Human-Robot Collaboration.",
-      "url":"https://link.springer.com/chapter/10.1007/978-3-031-19839-7_4",
-      "venue":"In Computer Vision–ECCV 2022: 17th European Conference, Tel Aviv, Israel, October 23–27, 2022, Proceedings, Part XXXVIII (pp. 51-69). Cham: Springer Nature Switzerland."
+      "url": "https://link.springer.com/chapter/10.1007/978-3-031-19839-7_4",
+      "venue": "European Conference on Computer Vision (ECCV 2022). Springer, Cham."
     }
   ]
 }
